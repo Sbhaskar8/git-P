@@ -8,9 +8,9 @@ Setting Editor and Branch Name
 
 Getting a Git Repository
 -----------------------
-3 stages
+3 stages:
 
-workingarea            stagingarea		local(git)repository
+workingarea              stagingarea		local(git)repository
 
 
 >>git init
