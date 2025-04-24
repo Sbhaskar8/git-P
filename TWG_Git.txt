@@ -1,0 +1,38 @@
+Setting Editor and Branch Name
+------------------------------
+
+*by defult branch name is master.
+*So recomend to rename. 
+*In video changed branch name as a 'main'
+
+
+Getting a Git Repository
+-----------------------
+3 stages:
+
+workingarea            stagingarea		local(git)repository
+
+
+>>git init
+>>git clone address
+>>git clone address foldername
+
+
+>>git status
+  shows which files is there at workingDirectory & 
+        which files is there at stagingArea.
+
+
+>>git add home.txt
+   home.txt file will add to stagingArea.
+>>git add .
+>>git add *.txt
+
+>>git rm --cached home.txt
+  Revert from stagingArea to workingDirectory.
+
+>>git commit -m "message"
+   To add from stagingArea to LocalRepo
+
+
+
