@@ -5,7 +5,7 @@ Setting Editor and Branch Name
 *So recomend to rename. 
 *In video changed branch name as a 'main'
 
-sbh
+sbhsbh
 Getting a Git Repository
 -----------------------
 3 stages:
